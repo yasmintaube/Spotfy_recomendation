@@ -4,18 +4,6 @@
 
 Este projeto tem como objetivo criar um sistema de recomendação de músicas utilizando dados do Spotify. Ele utiliza técnicas de clusterização (K-Means) e recomendação baseada em similaridade de cosseno para sugerir músicas semelhantes com base em características musicais.
 
-## Tabela de Conteúdos
-
-- [Visão Geral](#visão-geral)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Funcionalidades](#funcionalidades)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Referências](#referências)
-- [Licença](#licença)
-
----
-
 ## Visão Geral
 
 O projeto utiliza um conjunto de dados do Spotify contendo informações sobre músicas, como nome da faixa, artistas, ano de lançamento, popularidade e métricas musicais (e.g., danceability, energy, acousticness). O processo inclui:
